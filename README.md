@@ -500,6 +500,7 @@
 - [fakeThunder](https://github.com/MartianZ/fakeThunder) - fakeThunder is an unofficial Thunder(aka Xunlei) client for OS X.  
 
 ## Others
+- [awesome-stars](https://github.com/geekdada/awesome-stars) - A curated list of my GitHub stars by stargazed  
 - [Zure](https://github.com/zealson/Zure) - Quantumult X Policy Icon Set  
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.  
 - [The-Economist](https://github.com/nailperry-zd/The-Economist) - The Economist 经济学人，持续更新  
