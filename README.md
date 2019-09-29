@@ -39,6 +39,7 @@
 - [fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.  
 
 ## C
+- [lede](https://github.com/coolsnowwolf/lede) - Lean's OpenWrt source  
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device  
 - [go-tun2socks](https://github.com/eycorsican/go-tun2socks) - A tun2socks implementation written in Go.  
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS  
@@ -511,6 +512,7 @@
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：  
 - [snell](https://github.com/surge-networks/snell) - An encrypted proxy service program  
+- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.  
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics  
 - [typesetting-standard](https://github.com/hub0/typesetting-standard) - 中文排版所需遵循的标准和规范  
 - [github-drama](https://github.com/nikolas/github-drama) - &#34;locked and limited conversation to collaborators&#34;  
@@ -608,6 +610,7 @@
 - [source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕  
 
 ## Shell
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line  
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks  
 - [Shell](https://github.com/loyess/Shell) - shadowsocks-libev + [ v2ray-plugin、kcptun、simple-obfs、goquiet、cloak ] 插件，一键安装~  
 - [brook](https://github.com/yulewang/brook) - Brook 端口转发 一键管理脚本修改版 增加了对动态域名的支持 基于逗比版本修改而来  
@@ -664,7 +667,6 @@
 - [node-gitlab](https://github.com/jdalrymple/node-gitlab) - 🤖 GitLab API NodeJS library with full support of all the Gitlab API services.  
 - [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.  
 - [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively  
-- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.  
 - [docz](https://github.com/doczjs/docz) - ✍🏻It has never been so easy to document your things!  
 - [safeify](https://github.com/Houfeng/safeify) - 📦 Safe sandbox that can be used to execute untrusted code.  
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  
