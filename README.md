@@ -652,7 +652,7 @@
 - [actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js  
 - [surgio](https://github.com/geekdada/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.  
 - [npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.  
-- [moveable](https://github.com/daybrush/moveable) - ↔️ ↕️ 🔄 Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable!  
+- [moveable](https://github.com/daybrush/moveable) - ↔️ ↕️ 🔄 Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!  
 - [awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS  
 - [jay](https://github.com/nikersify/jay) - 😎 Supercharged JavaScript REPL  
 - [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types  
