@@ -11,7 +11,7 @@ jobs:
     steps:
       -
         name: 'Use GitHub Actions'
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       -
         name: 'Use Node.js 16.x'
         uses: actions/setup-node@v1
@@ -24,4 +24,4 @@ jobs:
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'stargazed --username  "geekdada" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: 'stargazed --username  "geekdada" --token ${GITHUB_TOKEN} --repository "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
