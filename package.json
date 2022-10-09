@@ -1,0 +1,6 @@
+{
+  "name": "geekdada-awesome-stars",
+  "dependencies": {
+    "stargazed": "github:abhijithvijayan/stargazed"
+  }
+}

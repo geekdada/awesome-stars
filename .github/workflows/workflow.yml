@@ -19,9 +19,9 @@ jobs:
           node-version: 16.x
       -
         name: 'Install Package'
-        run: 'npm install --global stargazed'
+        run: 'npm install'
       -
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'stargazed --username  "geekdada" --token ${GITHUB_TOKEN} --repository "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: 'npx stargazed --username  "geekdada" --token "${GITHUB_TOKEN}" --repository "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'

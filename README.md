@@ -65,7 +65,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [smartdns](https://github.com/pymumu/smartdns) | A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。 | pymumu | 5380 |
-| 2 |  [lede](https://github.com/coolsnowwolf/lede) | Lean&#39;s LEDE source | coolsnowwolf | 23260 |
+| 2 |  [lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source | coolsnowwolf | 23260 |
 | 3 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 71344 |
 | 4 |  [go-tun2socks](https://github.com/eycorsican/go-tun2socks) | A tun2socks implementation written in Go. | eycorsican | 1134 |
 | 5 |  [ish](https://github.com/ish-app/ish) | Linux shell for iOS | ish-app | 12741 |
@@ -86,7 +86,7 @@
 ## C#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity | microsoft | 79767 |
+| 1 |  [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity | microsoft | 79768 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -123,11 +123,11 @@
 | 2 |  [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 | SwiftGGTeam | 20617 |
 | 3 |  [obsidian-minimal](https://github.com/kepano/obsidian-minimal) | Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings. | kepano | 1855 |
 | 4 |  [smartping](https://github.com/smartping/smartping) | 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能 | smartping | 1344 |
-| 5 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 38709 |
+| 5 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | ryanoasis | 38709 |
 | 6 |  [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) | A model set of guidelines for RESTful APIs and Events, created by Zalando | zalando | 1775 |
 | 7 |  [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 | deeplearning-ai | 7329 |
 | 8 |  [screencat](https://github.com/maxogden/screencat) | :cat2: webrtc screensharing electron app for mac os (Alpha) | maxogden | 2997 |
-| 9 |  [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) | HyperApp user&#39;s manual | waylybaye | 1576 |
+| 9 |  [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) | HyperApp user's manual | waylybaye | 1576 |
 | 10 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 46213 |
 | 11 |  [easings.net](https://github.com/ai/easings.net) | Easing Functions Cheat Sheet | ai | 6585 |
 | 12 |  [flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) | Patterns for using flexbox CSS to build awesome UI components. | cjcenizal | 2473 |
@@ -149,7 +149,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [shadowsocks-nodejs](https://github.com/shadowsocks/shadowsocks-nodejs) |  | shadowsocks | 1241 |
-| 2 |  [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | Manage and switch between multiple proxies quickly &amp; easily. | FelisCatus | 18560 |
+| 2 |  [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | Manage and switch between multiple proxies quickly & easily. | FelisCatus | 18560 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -185,7 +185,7 @@
 | 6 |  [netflix-verify](https://github.com/sjlleo/netflix-verify) | 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not | sjlleo | 1833 |
 | 7 |  [sftpgo](https://github.com/drakkan/sftpgo) | Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob | drakkan | 4847 |
 | 8 |  [open-snell](https://github.com/icpz/open-snell) | This is an unofficial open source port of https://github.com/surge-networks/snell | icpz | 98 |
-| 9 |  [turborepo](https://github.com/vercel/turborepo) | The High-performance Build System for JavaScript &amp; TypeScript Codebases | vercel | 9784 |
+| 9 |  [turborepo](https://github.com/vercel/turborepo) | The High-performance Build System for JavaScript & TypeScript Codebases | vercel | 9784 |
 | 10 |  [xbar](https://github.com/matryer/xbar) | Put the output from any script or program into your macOS Menu Bar (the BitBar reboot) | matryer | 16344 |
 | 11 |  [PopClip-Extensions](https://github.com/geekdada/PopClip-Extensions) | Extentions I made for PopClip. | geekdada | 18 |
 | 12 |  [ghcri](https://github.com/ghcri/ghcri) | ghcr images - Fetched from docker-library | ghcri | 17 |
@@ -197,7 +197,7 @@
 | 18 |  [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. | XTLS | 9885 |
 | 19 |  [notify](https://github.com/nikoksr/notify) | A dead simple Go library for sending notifications to various messaging services. | nikoksr | 1280 |
 | 20 |  [mmp-go](https://github.com/Qv2ray/mmp-go) | Mega Multiplexer, a single port multi-service relay for shadowsocks. 中转机单端口转发多台shadowsocks服务器。 | Qv2ray | 169 |
-| 21 |  [duf](https://github.com/muesli/duf) | Disk Usage/Free Utility - a better &#39;df&#39; alternative | muesli | 9936 |
+| 21 |  [duf](https://github.com/muesli/duf) | Disk Usage/Free Utility - a better 'df' alternative | muesli | 9936 |
 | 22 |  [linguee-alfred-workflow](https://github.com/geekdada/linguee-alfred-workflow) | Search Linguee with Alfred. | geekdada | 1 |
 | 23 |  [notionapi](https://github.com/kjk/notionapi) | Unofficial Go API for Notion.so | kjk | 1726 |
 | 24 |  [steam-otp](https://github.com/geekdada/steam-otp) | Generate Steam one-time password offline. | geekdada | 7 |
@@ -234,7 +234,7 @@
 | 55 |  [websocketd](https://github.com/joewalnes/websocketd) | Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. | joewalnes | 16382 |
 | 56 |  [imageproxy](https://github.com/willnorris/imageproxy) | A caching, resizing image proxy written in Go | willnorris | 2904 |
 | 57 |  [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | fatedier | 60666 |
-| 58 |  [ethr](https://github.com/microsoft/ethr) | Ethr is a Comprehensive Network Measurement Tool for TCP, UDP &amp; ICMP. | microsoft | 5515 |
+| 58 |  [ethr](https://github.com/microsoft/ethr) | Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP. | microsoft | 5515 |
 | 59 |  [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image | wagoodman | 33968 |
 | 60 |  [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) | Modern Shadowsocks in Go | shadowsocks | 3757 |
 | 61 |  [fx](https://github.com/antonmedv/fx) | Terminal JSON viewer | antonmedv | 15303 |
@@ -242,7 +242,7 @@
 | 63 |  [webproc](https://github.com/jpillora/webproc) | Wrap any program in a simple web-based user-interface | jpillora | 637 |
 | 64 |  [gron](https://github.com/tomnomnom/gron) | Make JSON greppable! | tomnomnom | 11426 |
 | 65 |  [gost](https://github.com/ginuerzh/gost) | GO Simple Tunnel - a simple tunnel written in golang | ginuerzh | 9748 |
-| 66 |  [kcptun](https://github.com/xtaci/kcptun) | A Stable &amp; Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。 | xtaci | 13027 |
+| 66 |  [kcptun](https://github.com/xtaci/kcptun) | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。 | xtaci | 13027 |
 | 67 |  [minio](https://github.com/minio/minio) | Multi-Cloud :cloud: Object Storage | minio | 35642 |
 | 68 |  [k6](https://github.com/grafana/k6) | A modern load testing tool, using Go and JavaScript - https://k6.io | grafana | 18128 |
 | 69 |  [qshell](https://github.com/qiniu/qshell) | Shell Tools for Qiniu Cloud | qiniu | 939 |
@@ -268,7 +268,7 @@
 | 10 |  [git-stats](https://github.com/IonicaBizau/git-stats) | 🍀 Local git statistics including GitHub-like contributions calendars. | IonicaBizau | 6026 |
 | 11 |  [text-spinners](https://github.com/maxbeier/text-spinners) | Pure text, CSS only, font independent, inline loading indicators | maxbeier | 2728 |
 | 12 |  [restc](https://github.com/ElemeFE/restc) | A server-side middleware to visualize REST requests. | ElemeFE | 1344 |
-| 13 |  [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) | YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you&#39;re watching, auto selecting your preferred video quality and much more. | YePpHa | 2885 |
+| 13 |  [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) | YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more. | YePpHa | 2885 |
 | 14 |  [foundation-sites](https://github.com/foundation/foundation-sites) | The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. | foundation | 29309 |
 | 15 |  [sketch-measure](https://github.com/utom/sketch-measure) | Make it a fun to create spec for developers and teammates | utom | 6961 |
 | 16 |  [colour-schemes](https://github.com/daylerees/colour-schemes) | Colour schemes for a variety of editors created by Dayle Rees. | daylerees | 9326 |
@@ -296,7 +296,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [patina](https://github.com/itorr/patina) | 🤢「电子包浆」 图片做旧工具，赛博包浆虚拟器 | itorr | 440 |
-| 2 |  [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) | 📗🌐 🚢 Comprehensive and exhaustive JavaScript &amp; Node.js testing best practices (April 2022) | goldbergyoni | 19153 |
+| 2 |  [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) | 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022) | goldbergyoni | 19153 |
 | 3 |  [serverless-dns](https://github.com/serverless-dns/serverless-dns) | The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io | serverless-dns | 1035 |
 | 4 |  [hapi](https://github.com/hapijs/hapi) | The Simple, Secure Framework Developers Trust | hapijs | 14006 |
 | 5 |  [terminal-link](https://github.com/sindresorhus/terminal-link) | Create clickable links in the terminal | sindresorhus | 524 |
@@ -317,7 +317,7 @@
 | 20 |  [argon2-browser](https://github.com/antelle/argon2-browser) | Argon2 library compiled for browser runtime | antelle | 286 |
 | 21 |  [electron-evil-feature-patcher](https://github.com/antelle/electron-evil-feature-patcher) | Patches Electron to remove certain features from it, such as debugging flags, that can be used for evil | antelle | 12 |
 | 22 |  [Shuang](https://github.com/BlueSky-07/Shuang) | :pencil2: 双拼练习 | BlueSky-07 | 1005 |
-| 23 |  [fdir](https://github.com/thecodrr/fdir) | ⚡ The fastest directory crawler &amp; globbing library for NodeJS. Crawls 1m files in &amp;lt; 1s | thecodrr | 1084 |
+| 23 |  [fdir](https://github.com/thecodrr/fdir) | ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s | thecodrr | 1084 |
 | 24 |  [globby](https://github.com/sindresorhus/globby) | User-friendly glob matching | sindresorhus | 2144 |
 | 25 |  [community-faker](https://github.com/MilosPaunovic/community-faker) | Generate massive amounts of fake contextual data | MilosPaunovic | 52 |
 | 26 |  [undici](https://github.com/nodejs/undici) | An HTTP/1.1 client, written from scratch for Node.js | nodejs | 4261 |
@@ -327,7 +327,7 @@
 | 30 |  [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | A draggable and resizable grid layout with responsive breakpoints, for React. | react-grid-layout | 16446 |
 | 31 |  [bree](https://github.com/breejs/bree) | :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and cancelable promises (graceful shutdown).  Simple, fast, and lightweight.  Made for @ForwardEmail and @ladjs. | breejs | 2382 |
 | 32 |  [axios-hooks](https://github.com/simoneb/axios-hooks) | 🦆 React hooks for axios | simoneb | 1561 |
-| 33 |  [linkifyjs](https://github.com/Hypercontext/linkifyjs) | Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &amp;lt;a&amp;gt; tags. | Hypercontext | 1413 |
+| 33 |  [linkifyjs](https://github.com/Hypercontext/linkifyjs) | Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags. | Hypercontext | 1413 |
 | 34 |  [vm2](https://github.com/patriksimek/vm2) | Advanced vm/sandbox for Node.js | patriksimek | 3220 |
 | 35 |  [serialize-error](https://github.com/sindresorhus/serialize-error) | Serialize/deserialize an error into a plain object | sindresorhus | 417 |
 | 36 |  [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) | Simplified IPC communication for Electron apps | sindresorhus | 623 |
@@ -348,7 +348,7 @@
 | 51 |  [metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! | lowlighter | 8510 |
 | 52 |  [onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index) | Deprecated, use new project 👇 | spencerwooo | 1071 |
 | 53 |  [heroicons](https://github.com/tailwindlabs/heroicons) | A set of free MIT-licensed high-quality SVG icons for UI development. | tailwindlabs | 16800 |
-| 54 |  [extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) | ⚡️ A template for building cross browser extensions for Chrome, Opera &amp; Firefox. | EmailThis | 3089 |
+| 54 |  [extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) | ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox. | EmailThis | 3089 |
 | 55 |  [prosemirror](https://github.com/ProseMirror/prosemirror) | The ProseMirror WYSIWYM editor | ProseMirror | 6125 |
 | 56 |  [wmr](https://github.com/preactjs/wmr) | 👩‍🚀 The tiny all-in-one development tool for modern web apps. | preactjs | 4682 |
 | 57 |  [x-render](https://github.com/alibaba/x-render) | 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案 | alibaba | 5075 |
@@ -380,7 +380,7 @@
 | 83 |  [pino](https://github.com/pinojs/pino) | 🌲 super fast, all natural json logger | pinojs | 10154 |
 | 84 |  [tough-cookie](https://github.com/salesforce/tough-cookie) | RFC6265 Cookies and CookieJar for Node.js | salesforce | 778 |
 | 85 |  [netflix-1080p](https://github.com/jangxx/netflix-1080p) | Chrome extension to play Netflix in 1080p and 5.1 | jangxx | 666 |
-| 86 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 46731 |
+| 86 |  [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | anuraghazra | 46732 |
 | 87 |  [node-clinic](https://github.com/clinicjs/node-clinic) | Clinic.js diagnoses your Node.js performance issues | clinicjs | 5014 |
 | 88 |  [fastify-express](https://github.com/fastify/fastify-express) | Express compatibility layer for Fastify | fastify | 173 |
 | 89 |  [gatsby-ghost-novela-starter](https://github.com/draftbox-co/gatsby-ghost-novela-starter) | A Gatsby starter for creating blogs from headless Ghost CMS. | draftbox-co | 31 |
@@ -389,7 +389,7 @@
 | 92 |  [node-pool](https://github.com/coopernurse/node-pool) | Generic resource pooling for node.js | coopernurse | 2225 |
 | 93 |  [Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) | Entire React code base explanation by visual block schemes (Stack version) | Bogdan-Lyashenko | 5114 |
 | 94 |  [eslint](https://github.com/eslint/eslint) | Find and fix problems in your JavaScript code. | eslint | 21420 |
-| 95 |  [corona-cli](https://github.com/ahmadawais/corona-cli) | 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&amp;lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/ | ahmadawais | 1851 |
+| 95 |  [corona-cli](https://github.com/ahmadawais/corona-cli) | 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). To chat: https://twitter.com/MrAhmadAwais/ | ahmadawais | 1851 |
 | 96 |  [useWorker](https://github.com/alewin/useWorker) | ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks | alewin | 2431 |
 | 97 |  [telebot](https://github.com/mullwar/telebot) | The easy way to write Telegram bots in Node.js | mullwar | 1345 |
 | 98 |  [rules-panel](https://github.com/mrjun12/rules-panel) | web 管理 iptables转发规则 | mrjun12 | 162 |
@@ -402,12 +402,12 @@
 | 105 |  [netflix-1080p](https://github.com/truedread/netflix-1080p) | Chrome extension to play Netflix in 1080p and 5.1 | truedread | 2581 |
 | 106 |  [gatsby-themes](https://github.com/shadcn/gatsby-themes) | A collection of open source, well designed, highly customizable and 100% free Gatsby themes for blazing fast sites. We are working on the next version of the Flex theme. See https://github.com/reflexjs/reflexjs | shadcn | 297 |
 | 107 |  [nock](https://github.com/nock/nock) | HTTP server mocking and expectations library for Node.js | nock | 11725 |
-| 108 |  [saber](https://github.com/saberland/saber) | ()==[:::::::::::::&amp;gt; Build static sites in Vue.js, without the hassle | saberland | 2164 |
+| 108 |  [saber](https://github.com/saberland/saber) | ()==[:::::::::::::&gt; Build static sites in Vue.js, without the hassle | saberland | 2164 |
 | 109 |  [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) | A faster youtube embed. | paulirish | 4379 |
 | 110 |  [fflip](https://github.com/FredKSchott/fflip) | Flexible Feature Flipping/Flagging for Node.js | FredKSchott | 639 |
 | 111 |  [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. | cypress-io | 41100 |
 | 112 |  [configstore](https://github.com/yeoman/configstore) | Easily load and persist config without having to think about where and how | yeoman | 800 |
-| 113 |  [code-surfer](https://github.com/pomber/code-surfer) | Rad code slides &amp;lt;🏄/&amp;gt; | pomber | 5799 |
+| 113 |  [code-surfer](https://github.com/pomber/code-surfer) | Rad code slides &lt;🏄/&gt; | pomber | 5799 |
 | 114 |  [vuepress](https://github.com/vuejs/vuepress) | 📝 Minimalistic Vue-powered static site generator | vuejs | 20857 |
 | 115 |  [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | tailwindlabs | 61197 |
 | 116 |  [monaco-editor](https://github.com/microsoft/monaco-editor) | A browser based code editor | microsoft | 31372 |
@@ -418,8 +418,8 @@
 | 121 |  [joi](https://github.com/hapijs/joi) | The most powerful data validation library for JS | hapijs | 19236 |
 | 122 |  [Picas](https://github.com/djyde/Picas) | Generate Wordmark Logo with Google Fonts | djyde | 325 |
 | 123 |  [emotion](https://github.com/emotion-js/emotion) | 👩‍🎤 CSS-in-JS library designed for high performance style composition | emotion-js | 15531 |
-| 124 |  [fc-helper](https://github.com/aliyun/fc-helper) | 函数计算 &amp; API 网关辅助库 | aliyun | 37 |
-| 125 |  [funcraft](https://github.com/alibaba/funcraft) | (have) Fun with Serverless(API Gateway &amp; Function Compute) | alibaba | 934 |
+| 124 |  [fc-helper](https://github.com/aliyun/fc-helper) | 函数计算 & API 网关辅助库 | aliyun | 37 |
+| 125 |  [funcraft](https://github.com/alibaba/funcraft) | (have) Fun with Serverless(API Gateway & Function Compute) | alibaba | 934 |
 | 126 |  [stargazed](https://github.com/abhijithvijayan/stargazed) | 📋 Creating your own Awesome List of GitHub stars! | abhijithvijayan | 419 |
 | 127 |  [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) | 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub | DIYgod | 3199 |
 | 128 |  [shikwasa](https://github.com/jessuni/shikwasa) | An audio player born for podcast | jessuni | 309 |
@@ -457,19 +457,19 @@
 | 160 |  [remark](https://github.com/remarkjs/remark) | remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc. | remarkjs | 5622 |
 | 161 |  [droplr-telegram-bot](https://github.com/geekdada/droplr-telegram-bot) | Upload file to Droplr using a Telegram bot | geekdada | 3 |
 | 162 |  [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | yagop | 6547 |
-| 163 |  [enquirer](https://github.com/enquirer/enquirer) | Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer&#39;s author: https://github.com/jonschlinkert | enquirer | 6749 |
+| 163 |  [enquirer](https://github.com/enquirer/enquirer) | Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert | enquirer | 6749 |
 | 164 |  [quicklink](https://github.com/GoogleChromeLabs/quicklink) | ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time | GoogleChromeLabs | 9485 |
-| 165 |  [bundlephobia](https://github.com/pastelsky/bundlephobia) | 🏋️ Find out the cost of adding a new frontend dependency to your project | pastelsky | 7398 |
+| 165 |  [bundlephobia](https://github.com/pastelsky/bundlephobia) | 🏋️ Find out the cost of adding a new frontend dependency to your project | pastelsky | 7399 |
 | 166 |  [node-ytdl-core](https://github.com/fent/node-ytdl-core) | YouTube video downloader in javascript. | fent | 3440 |
-| 167 |  [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – | serverless | 43561 |
-| 168 |  [micro-router](https://github.com/pedronauck/micro-router) | :station:  A tiny and functional router for Zeit&#39;s Micro | pedronauck | 626 |
+| 167 |  [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – | serverless | 43561 |
+| 168 |  [micro-router](https://github.com/pedronauck/micro-router) | :station:  A tiny and functional router for Zeit's Micro | pedronauck | 626 |
 | 169 |  [droplr-js](https://github.com/Droplr/droplr-js) | Official Droplr API Client for Javascript | Droplr | 9 |
 | 170 |  [progress-estimator](https://github.com/bvaughn/progress-estimator) | Logs a progress bar and estimation for how long a Promise will take to complete | bvaughn | 2104 |
 | 171 |  [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) | Beautiful and accessible drag and drop for lists with React | atlassian | 28251 |
 | 172 |  [ncc](https://github.com/vercel/ncc) | Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires. | vercel | 7151 |
 | 173 |  [node-oauth2-server](https://github.com/oauthjs/node-oauth2-server) | Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js | oauthjs | 3779 |
 | 174 |  [oauth2orize](https://github.com/jaredhanson/oauth2orize) | OAuth 2.0 authorization server toolkit for Node.js. | jaredhanson | 3351 |
-| 175 |  [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 | digitalocean | 22911 |
+| 175 |  [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 | digitalocean | 22912 |
 | 176 |  [egg-oauth2-server](https://github.com/Azard/egg-oauth2-server) | :star2: OAuth2 server plugin for egg.js based on node-oauth2-server | Azard | 180 |
 | 177 |  [egg-scripts](https://github.com/eggjs/egg-scripts) | deploy tool for egg projects | eggjs | 110 |
 | 178 |  [class-names](https://github.com/sindresorhus/class-names) | Conditionally join CSS class names together - Especially useful with React | sindresorhus | 294 |
@@ -500,7 +500,7 @@
 | 203 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 152442 |
 | 204 |  [signale](https://github.com/klaussinani/signale) | Highly configurable logging utility | klaussinani | 8713 |
 | 205 |  [thingy](https://github.com/dansays/thingy) | A Things Parser for Drafts 5 | dansays | 33 |
-| 206 |  [dayjs](https://github.com/iamkun/dayjs) | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | iamkun | 40647 |
+| 206 |  [dayjs](https://github.com/iamkun/dayjs) | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API | iamkun | 40649 |
 | 207 |  [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) | 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。 | Hackl0us | 8717 |
 | 208 |  [lerna](https://github.com/lerna/lerna) | :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository. | lerna | 33679 |
 | 209 |  [consola](https://github.com/unjs/consola) | Elegant Console Logger for Node.js and Browser 🐨 | unjs | 3925 |
@@ -512,7 +512,7 @@
 | 215 |  [callbag-basics](https://github.com/staltz/callbag-basics) | 👜 Tiny and fast reactive/iterable programming library | staltz | 1638 |
 | 216 |  [hygen](https://github.com/jondot/hygen) | The simple, fast, and scalable code generator that lives in your project. | jondot | 4759 |
 | 217 |  [workerize-loader](https://github.com/developit/workerize-loader) | 🏗️ Automatically move a module into a Web Worker (Webpack loader) | developit | 2222 |
-| 218 |  [esm](https://github.com/standard-things/esm) | Tomorrow&#39;s ECMAScript modules today! | standard-things | 5189 |
+| 218 |  [esm](https://github.com/standard-things/esm) | Tomorrow's ECMAScript modules today! | standard-things | 5189 |
 | 219 |  [Volumio2](https://github.com/volumio/Volumio2) | Volumio 2 - Audiophile Music Player | volumio | 1343 |
 | 220 |  [uppy](https://github.com/transloadit/uppy) | The next open source file uploader for web browsers :dog: | transloadit | 25940 |
 | 221 |  [jjb](https://github.com/sunoj/jjb) | 一个帮助你自动申请京东价格保护的chrome拓展 | sunoj | 3118 |
@@ -520,9 +520,9 @@
 | 223 |  [beidou](https://github.com/alibaba/beidou) | :milky_way: Isomorphic framework for server-rendered React apps | alibaba | 2733 |
 | 224 |  [microbundle](https://github.com/developit/microbundle) | 📦 Zero-configuration bundler for tiny modules. | developit | 7283 |
 | 225 |  [tldr-alfred](https://github.com/alexlafroscia/tldr-alfred) | Alfred workflow for TLDR | alexlafroscia | 78 |
-| 226 |  [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) | Generate changelogs and release notes from a project&#39;s commit messages and metadata. | conventional-changelog | 6627 |
+| 226 |  [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) | Generate changelogs and release notes from a project's commit messages and metadata. | conventional-changelog | 6627 |
 | 227 |  [cz-cli](https://github.com/commitizen/cz-cli) | The commitizen command line utility. #BlackLivesMatter | commitizen | 14254 |
-| 228 |  [vimium](https://github.com/philc/vimium) | The hacker&#39;s browser. | philc | 18775 |
+| 228 |  [vimium](https://github.com/philc/vimium) | The hacker's browser. | philc | 18775 |
 | 229 |  [mz-modules](https://github.com/node-modules/mz-modules) | Same as `mz`, but wrap modules in the world rather than core API. | node-modules | 57 |
 | 230 |  [mz](https://github.com/normalize/mz) | modernize node.js to current ECMAScript standards | normalize | 1383 |
 | 231 |  [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | :white_check_mark:  The Node.js best practices list (August 2022) | goldbergyoni | 81984 |
@@ -543,7 +543,7 @@
 | 246 |  [vue-trend](https://github.com/QingWei-Li/vue-trend) | 🌈 Simple, elegant spark lines for Vue.js | QingWei-Li | 1172 |
 | 247 |  [scrat-parser-pagelet](https://github.com/whxaxes/scrat-parser-pagelet) | improve scrat pagelet ability | whxaxes | 1 |
 | 248 |  [webpack-common-shake](https://github.com/indutny/webpack-common-shake) | CommonJS Tree Shaker plugin for WebPack | indutny | 908 |
-| 249 |  [xssor2](https://github.com/evilcos/xssor2) | XSS&#39;OR - Hack with JavaScript. | evilcos | 2006 |
+| 249 |  [xssor2](https://github.com/evilcos/xssor2) | XSS'OR - Hack with JavaScript. | evilcos | 2006 |
 | 250 |  [query-string](https://github.com/sindresorhus/query-string) | Parse and stringify URL query strings | sindresorhus | 6086 |
 | 251 |  [VRouter](https://github.com/overcache/VRouter) | 一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理. | overcache | 1300 |
 | 252 |  [webpack-manifest-plugin](https://github.com/shellscape/webpack-manifest-plugin) | webpack plugin for generating asset manifests | shellscape | 1357 |
@@ -585,7 +585,7 @@
 | 288 |  [colors.js](https://github.com/Marak/colors.js) | get colors in your node.js console | Marak | 5008 |
 | 289 |  [simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands | simple-icons | 14233 |
 | 290 |  [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) | A shadowsocks manager tool for multi user and traffic control. | shadowsocks | 4086 |
-| 291 |  [debug](https://github.com/debug-js/debug) | A tiny JavaScript debugging utility modelled after Node.js core&#39;s debugging technique. Works in Node.js and web browsers | debug-js | 10402 |
+| 291 |  [debug](https://github.com/debug-js/debug) | A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers | debug-js | 10402 |
 | 292 |  [co](https://github.com/tj/co) | The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc) | tj | 11776 |
 | 293 |  [polyfill-service](https://github.com/Financial-Times/polyfill-service) | Automatic polyfill service. | Financial-Times | 5881 |
 | 294 |  [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) | A collection of common interactive command line user interfaces. | SBoudrias | 16916 |
@@ -595,11 +595,11 @@
 | 298 |  [blessed](https://github.com/chjj/blessed) | A high-level terminal interface library for node.js. | chjj | 10647 |
 | 299 |  [trevor](https://github.com/vadimdemedes/trevor) | 🚦 Your own mini Travis CI to run tests locally | vadimdemedes | 2138 |
 | 300 |  [ora](https://github.com/sindresorhus/ora) | Elegant terminal spinner | sindresorhus | 7958 |
-| 301 |  [commander.js](https://github.com/tj/commander.js) | node.js command-line interfaces made easy | tj | 23528 |
+| 301 |  [commander.js](https://github.com/tj/commander.js) | node.js command-line interfaces made easy | tj | 23529 |
 | 302 |  [postcss-loader](https://github.com/webpack-contrib/postcss-loader) | PostCSS loader for webpack | webpack-contrib | 2796 |
 | 303 |  [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) | [DEPRECATED] Please use https://github.com/webpack-contrib/mini-css-extract-plugin Extracts text from a bundle into a separate file | webpack-contrib | 4046 |
 | 304 |  [alfy](https://github.com/sindresorhus/alfy) | Create Alfred workflows with ease | sindresorhus | 2443 |
-| 305 |  [egg](https://github.com/eggjs/egg) | 🥚 Born to build better enterprise frameworks and apps with Node.js &amp; Koa | eggjs | 18181 |
+| 305 |  [egg](https://github.com/eggjs/egg) | 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa | eggjs | 18181 |
 | 306 |  [clipboardy](https://github.com/sindresorhus/clipboardy) | Access the system clipboard (copy/paste) | sindresorhus | 1509 |
 | 307 |  [qart.js](https://github.com/kciter/qart.js) | Generate artistic QR code. 🎨 | kciter | 3036 |
 | 308 |  [vtop](https://github.com/MrRio/vtop) | Wow such top. So stats. More better than regular top. | MrRio | 3963 |
@@ -651,12 +651,12 @@
 | 354 |  [Catchem](https://github.com/djyde/Catchem) | Buy APPs at the right time | djyde | 114 |
 | 355 |  [clipboard.js](https://github.com/zenorocha/clipboard.js) | :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard: | zenorocha | 32602 |
 | 356 |  [gitbook](https://github.com/GitbookIO/gitbook) | 📝 Modern documentation format and toolchain using Git and Markdown | GitbookIO | 25064 |
-| 357 |  [svg-sprite](https://github.com/svg-sprite/svg-sprite) | SVG sprites &amp; stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.) | svg-sprite | 1750 |
+| 357 |  [svg-sprite](https://github.com/svg-sprite/svg-sprite) | SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.) | svg-sprite | 1750 |
 | 358 |  [refluxjs](https://github.com/reflux/refluxjs) | A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux | reflux | 5385 |
 | 359 |  [react-motion](https://github.com/chenglou/react-motion) | A spring that solves your animation problems. | chenglou | 21167 |
 | 360 |  [simditor](https://github.com/mycolorway/simditor) | An Easy and Fast WYSIWYG Editor | mycolorway | 4965 |
 | 361 |  [bluebird](https://github.com/petkaantonov/bluebird) | :bird: :zap: Bluebird is a full featured promise library with unmatched performance. | petkaantonov | 20158 |
-| 362 |  [angularjs-scroll-glue](https://github.com/Luegg/angularjs-scroll-glue) | An AngularJs directive that automatically scrolls to the bottom of an element on changes in it&#39;s scope. | Luegg | 445 |
+| 362 |  [angularjs-scroll-glue](https://github.com/Luegg/angularjs-scroll-glue) | An AngularJs directive that automatically scrolls to the bottom of an element on changes in it's scope. | Luegg | 445 |
 | 363 |  [lazysizes](https://github.com/aFarkas/lazysizes) | High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration. | aFarkas | 16480 |
 | 364 |  [scrat](https://github.com/scrat-team/scrat) | Webapp Modular Framework | scrat-team | 775 |
 | 365 |  [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) | Yeoman generator for ReactJS and Webpack | react-webpack-generators | 2892 |
@@ -665,10 +665,10 @@
 | 368 |  [es6tutorial](https://github.com/ruanyf/es6tutorial) | 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。 | ruanyf | 20300 |
 | 369 |  [store.js](https://github.com/marcuswestin/store.js) | Cross-browser storage for all use cases, used across the web. | marcuswestin | 13833 |
 | 370 |  [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | facebook | 195792 |
-| 371 |  [underscore](https://github.com/jashkenas/underscore) | JavaScript&#39;s utility _ belt | jashkenas | 26611 |
+| 371 |  [underscore](https://github.com/jashkenas/underscore) | JavaScript's utility _ belt | jashkenas | 26611 |
 | 372 |  [mailcheck](https://github.com/mailcheck/mailcheck) | Reduce misspelled email addresses in your web apps. | mailcheck | 7920 |
 | 373 |  [wechat-api](https://github.com/node-webot/wechat-api) | Wechat API / 主动调用 API | node-webot | 1625 |
-| 374 |  [Respond](https://github.com/scottjehl/Respond) | A fast &amp; lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more) | scottjehl | 11440 |
+| 374 |  [Respond](https://github.com/scottjehl/Respond) | A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more) | scottjehl | 11440 |
 | 375 |  [font-spider](https://github.com/aui/font-spider) | Smart webfont compression and format conversion tool | aui | 4724 |
 | 376 |  [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) | Light and responsive lightbox script with focus on performance. | dimsemenov | 11296 |
 | 377 |  [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | alvarotrigo | 34085 |
@@ -676,7 +676,7 @@
 | 379 |  [pug](https://github.com/pugjs/pug) | Pug – robust, elegant, feature rich template engine for Node.js | pugjs | 20966 |
 | 380 |  [connect](https://github.com/senchalabs/connect) | Connect is a middleware layer for Node.js | senchalabs | 9539 |
 | 381 |  [wechat.js](https://github.com/sofish/wechat.js) | 微信相关的 js 操作：分享、网络、菜单 | sofish | 926 |
-| 382 |  [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the &amp;lt;canvas&amp;gt; tag | chartjs | 58348 |
+| 382 |  [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the &lt;canvas&gt; tag | chartjs | 58348 |
 | 383 |  [sequelize](https://github.com/sequelize/sequelize) | Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i. | sequelize | 26837 |
 | 384 |  [lesshat](https://github.com/madebysource/lesshat) | Smart LESS CSS mixins library. | madebysource | 2203 |
 | 385 |  [impulse](https://github.com/luster-io/impulse) | Dynamic Physics Interactions for the Mobile Web | luster-io | 1597 |
@@ -687,7 +687,7 @@
 | 390 |  [css-sprite](https://github.com/aslansky/css-sprite) | css sprite generator | aslansky | 736 |
 | 391 |  [Ghost](https://github.com/TryGhost/Ghost) | Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. | TryGhost | 41425 |
 | 392 |  [grunt-usemin](https://github.com/yeoman/grunt-usemin) | [UNMAINTAINED] Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views) | yeoman | 1229 |
-| 393 |  [lodash](https://github.com/lodash/lodash) | A modern JavaScript utility library delivering modularity, performance, &amp; extras. | lodash | 54536 |
+| 393 |  [lodash](https://github.com/lodash/lodash) | A modern JavaScript utility library delivering modularity, performance, & extras. | lodash | 54536 |
 | 394 |  [UglifyJS-old](https://github.com/mishoo/UglifyJS-old) | JavaScript parser / mangler / compressor / beautifier library for NodeJS | mishoo | 7976 |
 | 395 |  [grunt-jade-usemin](https://github.com/pgilad/grunt-jade-usemin) | Grunt plugin for running Usemin on Jade files | pgilad | 21 |
 | 396 |  [cors](https://github.com/expressjs/cors) | Node.js CORS middleware | expressjs | 5552 |
@@ -707,7 +707,7 @@
 | 410 |  [Spacegray](https://github.com/SublimeText/Spacegray) | A Hyperminimal UI Theme for Sublime Text | SublimeText | 7262 |
 | 411 |  [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites. | h5bp | 53433 |
 | 412 |  [pen](https://github.com/sofish/pen) | enjoy live editing (+markdown) | sofish | 4751 |
-| 413 |  [hexo](https://github.com/hexojs/hexo) | A fast, simple &amp; powerful blog framework, powered by Node.js. | hexojs | 35510 |
+| 413 |  [hexo](https://github.com/hexojs/hexo) | A fast, simple & powerful blog framework, powered by Node.js. | hexojs | 35510 |
 | 414 |  [video.js](https://github.com/videojs/video.js) | Video.js - open source HTML5 video player | videojs | 34307 |
 | 415 |  [kissy](https://github.com/kissyteam/kissy) | A Powerful Collection Of Modules | kissyteam | 2715 |
 
@@ -771,7 +771,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [awesome-bun](https://github.com/apvarun/awesome-bun) | ⚡️ A curated list of awesome things related to Bun | apvarun | 533 |
-| 2 |  [misbrands](https://github.com/mkrl/misbrands) | The world&#39;s most hated IT stickers | mkrl | 7241 |
+| 2 |  [misbrands](https://github.com/mkrl/misbrands) | The world's most hated IT stickers | mkrl | 7241 |
 | 3 |  [awesome-tauri](https://github.com/tauri-apps/awesome-tauri) | 🚀 Awesome Tauri Apps, Plugins and Resources | tauri-apps | 937 |
 | 4 |  [tsconfig](https://github.com/sindresorhus/tsconfig) | Shared TypeScript config for my projects | sindresorhus | 272 |
 | 5 |  [gitignore](https://github.com/toptal/gitignore) | The largest collection of useful .gitignore templates | toptal | 1251 |
@@ -830,7 +830,7 @@
 | 58 |  [My-blog](https://github.com/markyun/My-blog) | 马云云在Github的学习片段 https://www.yuque.com/markyun | markyun | 11348 |
 | 59 |  [source-han-sans](https://github.com/adobe-fonts/source-han-sans) | Source Han Sans \| 思源黑体 \| 思源黑體 \| 思源黑體 香港 \| 源ノ角ゴシック \| 본고딕 | adobe-fonts | 11476 |
 | 60 |  [alfred2-workflows](https://github.com/GiaoGiaoCat/alfred2-workflows) |  | GiaoGiaoCat | 76 |
-| 61 |  [Best-App](https://github.com/hzlzh/Best-App) | 收集&amp;推荐优秀的 Apps/硬件/技巧/周边等 | hzlzh | 15881 |
+| 61 |  [Best-App](https://github.com/hzlzh/Best-App) | 收集&推荐优秀的 Apps/硬件/技巧/周边等 | hzlzh | 15881 |
 | 62 |  [angular-seo](https://github.com/steeve/angular-seo) | SEO for AngularJS apps made easy. | steeve | 1070 |
 | 63 |  [yeoman](https://github.com/yeoman/yeoman) | Yeoman - a set of tools for automating development workflow | yeoman | 9879 |
 | 64 |  [javascript-patterns](https://github.com/jayli/javascript-patterns) |  | jayli | 338 |
@@ -843,8 +843,8 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [raspap-webgui](https://github.com/RaspAP/raspap-webgui) | Simple wireless AP setup &amp; management for Debian-based devices | RaspAP | 3769 |
-| 2 |  [crater](https://github.com/crater-invoice/crater) | Open Source Invoicing Solution for Individuals &amp; Businesses | crater-invoice | 6433 |
+| 1 |  [raspap-webgui](https://github.com/RaspAP/raspap-webgui) | Simple wireless AP setup & management for Debian-based devices | RaspAP | 3769 |
+| 2 |  [crater](https://github.com/crater-invoice/crater) | Open Source Invoicing Solution for Individuals & Businesses | crater-invoice | 6433 |
 | 3 |  [polr](https://github.com/cydrobolt/polr) | :aerial_tramway: A modern, powerful, and robust URL shortener | cydrobolt | 4478 |
 | 4 |  [YOURLS](https://github.com/YOURLS/YOURLS) | 🔗 Y̲our O̲wn U̲R̲L̲ S̲hortener - the 𝑑𝑒 𝑓𝑎𝑐𝑡𝑜 standard self hosted URL shortener in PHP | YOURLS | 8459 |
 | 5 |  [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) | GitHub Workflow for Alfred 4 | gharlan | 2733 |
@@ -876,8 +876,8 @@
 | 12 |  [mackup](https://github.com/lra/mackup) | Keep your application settings in sync (OS X/Linux) | lra | 12452 |
 | 13 |  [python-bna](https://github.com/jleclanche/python-bna) | Python implementation of the mobile Blizzard Authenticator (TOTP) | jleclanche | 204 |
 | 14 |  [jumpserver](https://github.com/jumpserver/jumpserver) | JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。 | jumpserver | 19245 |
-| 15 |  [healthchecks](https://github.com/healthchecks/healthchecks) | A cron monitoring tool written in Python &amp; Django | healthchecks | 5555 |
-| 16 |  [localstack](https://github.com/localstack/localstack) | 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline! | localstack | 43875 |
+| 15 |  [healthchecks](https://github.com/healthchecks/healthchecks) | A cron monitoring tool written in Python & Django | healthchecks | 5555 |
+| 16 |  [localstack](https://github.com/localstack/localstack) | 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! | localstack | 43875 |
 | 17 |  [cascadia-code](https://github.com/microsoft/cascadia-code) | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. | microsoft | 21153 |
 | 18 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | home-assistant | 55209 |
 | 19 |  [Medusa](https://github.com/pymedusa/Medusa) | Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. | pymedusa | 1501 |
@@ -893,11 +893,11 @@
 | 29 |  [sublime-autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer) | Sublime plugin to prefix your CSS | sindresorhus | 669 |
 | 30 |  [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. | nvbn | 73934 |
 | 31 |  [chnroutes](https://github.com/fivesheep/chnroutes) | scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn | fivesheep | 3035 |
-| 32 |  [social-auth-simulator](https://github.com/daimajia/social-auth-simulator) | 模拟登陆-&amp;gt;授权-&amp;gt;获取access_token，目前支持人人、新浪微博、腾讯微博 | daimajia | 112 |
+| 32 |  [social-auth-simulator](https://github.com/daimajia/social-auth-simulator) | 模拟登陆-&gt;授权-&gt;获取access_token，目前支持人人、新浪微博、腾讯微博 | daimajia | 112 |
 | 33 |  [ChinaDNS-Python](https://github.com/shadowsocks/ChinaDNS-Python) | Protect yourself against DNS poisoning in China. | shadowsocks | 764 |
 | 34 |  [NeteaseCloudMusic](https://github.com/yanunon/NeteaseCloudMusic) | 网易云音乐 | yanunon | 797 |
 | 35 |  [you-get](https://github.com/soimort/you-get) | :arrow_double_down: Dumb downloader that scrapes the web | soimort | 45636 |
-| 36 |  [lixian.xunlei](https://github.com/binux/lixian.xunlei) | xunlei lixian api &amp; a website project base on it &amp; a plugin for flexget | binux | 365 |
+| 36 |  [lixian.xunlei](https://github.com/binux/lixian.xunlei) | xunlei lixian api & a website project base on it & a plugin for flexget | binux | 365 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -912,7 +912,7 @@
 ## Rich Text Format
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) | Open source tutorial &amp; information collector for hackintosh installation. | huangyz0918 | 3850 |
+| 1 |  [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) | Open source tutorial & information collector for hackintosh installation. | huangyz0918 | 3850 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -940,7 +940,7 @@
 | 7 |  [node-to-rust](https://github.com/wasmflow/node-to-rust) |  | wasmflow | 1179 |
 | 8 |  [dum](https://github.com/egoist/dum) | An npm scripts runner written in Rust. | egoist | 1291 |
 | 9 |  [neon](https://github.com/neon-bindings/neon) | Rust bindings for writing safe and fast native Node.js modules. | neon-bindings | 6830 |
-| 10 |  [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. | rustdesk | 29857 |
+| 10 |  [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. | rustdesk | 29858 |
 | 11 |  [tools](https://github.com/rome/tools) | The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS. | rome | 19435 |
 | 12 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | BurntSushi | 33543 |
 | 13 |  [volta](https://github.com/volta-cli/volta) | Volta: JS Toolchains as Code. ⚡ | volta-cli | 6760 |
@@ -984,7 +984,7 @@
 | 3 |  [zplug](https://github.com/zplug/zplug) | :hibiscus: A next-generation plugin manager for zsh | zplug | 5213 |
 | 4 |  [CFwarp](https://github.com/kkkyg/CFwarp) | Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中… | kkkyg | 607 |
 | 5 |  [OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker) | Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update) | SuLingGG | 520 |
-| 6 |  [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) | Raspberry Pi &amp; NanoPi R2S/R4S &amp; G-Dock &amp; x86 OpenWrt Compile Project. (Based on Github Action / Daily Update) | SuLingGG | 4989 |
+| 6 |  [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) | Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update) | SuLingGG | 4989 |
 | 7 |  [snell-server-docker](https://github.com/geekdada/snell-server-docker) | A Docker image for Snell proxy service | geekdada | 5 |
 | 8 |  [Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) | 致力于最简单好用的GOST小白脚本 | KANIKIG | 784 |
 | 9 |  [CFWarp-Pro](https://github.com/YG-tsj/CFWarp-Pro) | 仅支持&#34;内核集成&#34;模式的WARP多功能脚本（支持ARM/X86）：纯IPV4、纯IPV6、双栈IPV4+IPV6 各种VPS都可用。目前已测试通过oracle（甲骨文云），gpc（谷歌云），buyvm，racknerd，virmach，vultr，aws（亚马逊云），azure（微软云），bandwagonhost（搬瓦工）……欢迎大家补充反馈！ | YG-tsj | 787 |
@@ -998,7 +998,7 @@
 | 17 |  [htrace.sh](https://github.com/trimstray/htrace.sh) | My simple Swiss Army knife for http/https troubleshooting and profiling. | trimstray | 3555 |
 | 18 |  [strap](https://github.com/MikeMcQuaid/strap) | 👢 Bootstrap your macOS development system. | MikeMcQuaid | 1968 |
 | 19 |  [self-hosted](https://github.com/getsentry/self-hosted) | Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept | getsentry | 5490 |
-| 20 |  [fancyss](https://github.com/hq450/fancyss) | fancyss is a project providing tools to across the GFW on asuswrt/merlin based router. | hq450 | 10106 |
+| 20 |  [fancyss](https://github.com/hq450/fancyss) | fancyss is a project providing tools to across the GFW on asuswrt/merlin based router. | hq450 | 10105 |
 | 21 |  [testssl.sh](https://github.com/drwetter/testssl.sh) | Testing TLS/SSL encryption anywhere on any port | drwetter | 6369 |
 | 22 |  [dnsperftest](https://github.com/cleanbrowsing/dnsperftest) | DNS Performance test | cleanbrowsing | 1952 |
 | 23 |  [git-extras](https://github.com/tj/git-extras) | GIT utilities -- repo summary, repl, changelog population, author commit percentages and more | tj | 15859 |
@@ -1046,7 +1046,7 @@
 | 13 |  [Suohai](https://github.com/Sunnyyoung/Suohai) | Audio input/output source lock/switcher for macOS. | Sunnyyoung | 110 |
 | 14 |  [Mos](https://github.com/Caldis/Mos) | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  \|  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS | Caldis | 9708 |
 | 15 |  [AMM](https://github.com/15cm/AMM) | Aria2 Menubar Monitor | 15cm | 308 |
-| 16 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 31392 |
+| 16 |  [iina](https://github.com/iina/iina) | The modern video player for macOS. | iina | 31393 |
 | 17 |  [blink](https://github.com/blinksh/blink) | Blink Mobile Shell for iOS (Mosh based) | blinksh | 5321 |
 | 18 |  [mas](https://github.com/mas-cli/mas) | :package: Mac App Store command line interface | mas-cli | 9232 |
 | 19 |  [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | JohnCoates | 20195 |
@@ -1108,7 +1108,7 @@
 | 43 |  [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) | React Hooks for Firebase. | CSFrequency | 2893 |
 | 44 |  [react-async-hook](https://github.com/slorber/react-async-hook) | React hook to handle any async operation in React components, and prevent race conditions | slorber | 1108 |
 | 45 |  [extensions](https://github.com/raycast/extensions) | Everything you need to extend Raycast. | raycast | 2449 |
-| 46 |  [react-div-100vh](https://github.com/mvasin/react-div-100vh) | A workaround for the &#39;100vh&#39; issue in mobile browsers | mvasin | 958 |
+| 46 |  [react-div-100vh](https://github.com/mvasin/react-div-100vh) | A workaround for the '100vh' issue in mobile browsers | mvasin | 958 |
 | 47 |  [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) | Implementation of Chrome extension APIs for Electron | getstation | 115 |
 | 48 |  [teini](https://github.com/zeekrey/teini) | 👶 Teini (tiny, [ˈtīnē]) is an extremely small webshop leveraging awesome and free solutions like Github and Vercel. | zeekrey | 145 |
 | 49 |  [kbar](https://github.com/timc1/kbar) | fast, portable, and extensible cmd+k interface for your site | timc1 | 3222 |
@@ -1122,8 +1122,8 @@
 | 57 |  [denodb](https://github.com/eveningkid/denodb) | MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno | eveningkid | 1753 |
 | 58 |  [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) | Official Notion JavaScript Client | makenotion | 3155 |
 | 59 |  [redux-toolkit](https://github.com/reduxjs/redux-toolkit) | The official, opinionated, batteries-included toolset for efficient Redux development | reduxjs | 8580 |
-| 60 |  [threads.js](https://github.com/andywer/threads.js) | 🧵 Make web workers &amp; worker threads as simple as a function call. | andywer | 2588 |
-| 61 |  [useStateMachine](https://github.com/cassiozen/useStateMachine) | The &amp;lt;1 kb state machine hook for React | cassiozen | 2273 |
+| 60 |  [threads.js](https://github.com/andywer/threads.js) | 🧵 Make web workers & worker threads as simple as a function call. | andywer | 2588 |
+| 61 |  [useStateMachine](https://github.com/cassiozen/useStateMachine) | The &lt;1 kb state machine hook for React | cassiozen | 2273 |
 | 62 |  [impfstoff.bot](https://github.com/guicheffer/impfstoff.bot) | 💉 Bot for fetching vaccine appointments in Berlin vac centers | guicheffer | 72 |
 | 63 |  [mantine](https://github.com/mantinedev/mantine) | React components library with native dark theme support | mantinedev | 15045 |
 | 64 |  [cusdis](https://github.com/djyde/cusdis) | lightweight, privacy-friendly alternative to Disqus. | djyde | 2036 |
@@ -1133,7 +1133,7 @@
 | 68 |  [redwood](https://github.com/redwoodjs/redwood) | The App Framework for Startups | redwoodjs | 14950 |
 | 69 |  [yup](https://github.com/jquense/yup) | Dead simple Object schema validation | jquense | 18456 |
 | 70 |  [formik](https://github.com/jaredpalmer/formik) | Build forms in React, without the tears 😭 | jaredpalmer | 31297 |
-| 71 |  [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js &amp; TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB | prisma | 26106 |
+| 71 |  [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB | prisma | 26106 |
 | 72 |  [blitz](https://github.com/blitz-js/blitz) | ⚡️ The Missing Fullstack Toolkit for Next.js | blitz-js | 12163 |
 | 73 |  [windicss](https://github.com/windicss/windicss) | Next generation utility-first CSS framework. | windicss | 5724 |
 | 74 |  [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library | ant-design | 82162 |
@@ -1157,7 +1157,7 @@
 | 92 |  [query](https://github.com/TanStack/query) | 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue. | TanStack | 30198 |
 | 93 |  [virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) | Open source demo that Next.js developers can clone, deploy, and fully customize for events. | vercel | 1899 |
 | 94 |  [opine](https://github.com/cmorten/opine) | Minimalist web framework for Deno ported from ExpressJS. | cmorten | 834 |
-| 95 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 17436 |
+| 95 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. | eclipse-theia | 17436 |
 | 96 |  [useAuth](https://github.com/Swizec/useAuth) | The simplest way to add authentication to your React app. Supports various providers. | Swizec | 2580 |
 | 97 |  [flomo-api-helper](https://github.com/geekdada/flomo-api-helper) | An API helper for flomo.app | geekdada | 13 |
 | 98 |  [collector](https://github.com/sumup-oss/collector) | A library of React components and hooks for contextual user-interaction tracking for complex interfaces with a predictable event schema | sumup-oss | 18 |
@@ -1174,13 +1174,13 @@
 | 109 |  [telegraf](https://github.com/telegraf/telegraf) | Modern Telegram Bot Framework for Node.js | telegraf | 6082 |
 | 110 |  [reactive-json-file](https://github.com/privatenumber/reactive-json-file) | 💎 Reactively sync JSON mutations to disk | privatenumber | 22 |
 | 111 |  [next-auth](https://github.com/nextauthjs/next-auth) | Authentication for Next.js | nextauthjs | 11843 |
-| 112 |  [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications | chakra-ui | 28954 |
+| 112 |  [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️ Simple, Modular & Accessible UI Components for your React Applications | chakra-ui | 28954 |
 | 113 |  [vest](https://github.com/ealush/vest) | Vest ✅ Declarative validations framework | ealush | 2002 |
 | 114 |  [formatjs](https://github.com/formatjs/formatjs) | The monorepo home to all of the FormatJS related libraries, most notably react-intl. | formatjs | 13388 |
 | 115 |  [twin.macro](https://github.com/ben-rogerson/twin.macro) | 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. | ben-rogerson | 6300 |
 | 116 |  [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. | hasura | 28140 |
 | 117 |  [ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps | vadimdemedes | 19220 |
-| 118 |  [table](https://github.com/TanStack/table) | 🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table | TanStack | 19449 |
+| 118 |  [table](https://github.com/TanStack/table) | 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table | TanStack | 19449 |
 | 119 |  [storybook](https://github.com/storybookjs/storybook) | Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. | storybookjs | 74352 |
 | 120 |  [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 📋 React Hooks for form state management and validation (Web + React Native) | react-hook-form | 30939 |
 | 121 |  [lightweight-charts](https://github.com/tradingview/lightweight-charts) | Financial lightweight charts built with HTML5 canvas | tradingview | 5472 |
@@ -1190,7 +1190,7 @@
 | 125 |  [now-deno](https://github.com/lucacasonato/now-deno) | Deno builder for Vercel - run Deno on Vercel. :sauropod: + λ = :heart: | lucacasonato | 267 |
 | 126 |  [ako](https://github.com/ako-deno/ako) | Expressive HTTP middleware framework for deno using async functions. Aiming to port Koa to Deno. | ako-deno | 22 |
 | 127 |  [denopkg.com](https://github.com/egoist-labs/denopkg.com) | An easier way to use code from GitHub in your Deno project. | egoist-labs | 223 |
-| 128 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It&#39;s fast! | vitejs | 48217 |
+| 128 |  [vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It's fast! | vitejs | 48217 |
 | 129 |  [fun](https://github.com/vercel/fun) | ƒun - Local serverless function λ development runtime | vercel | 400 |
 | 130 |  [geist-ui](https://github.com/geist-org/geist-ui) | A design system for building modern websites and applications. | geist-org | 3342 |
 | 131 |  [backstage](https://github.com/backstage/backstage) | Backstage is an open platform for building developer portals | backstage | 18633 |
@@ -1202,13 +1202,13 @@
 | 137 |  [swr](https://github.com/vercel/swr) | React Hooks for Data Fetching | vercel | 24156 |
 | 138 |  [hox](https://github.com/umijs/hox) | State sharing for React components. | umijs | 1276 |
 | 139 |  [motion](https://github.com/framer/motion) | Open source, production-ready animation and gesture library for React | framer | 16169 |
-| 140 |  [circuit-ui](https://github.com/sumup-oss/circuit-ui) | SumUp&#39;s component library for the web | sumup-oss | 817 |
-| 141 |  [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) | The complete guide to static typing in &#34;React &amp; Redux&#34; apps using TypeScript | piotrwitek | 12558 |
+| 140 |  [circuit-ui](https://github.com/sumup-oss/circuit-ui) | SumUp's component library for the web | sumup-oss | 817 |
+| 141 |  [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) | The complete guide to static typing in &#34;React & Redux&#34; apps using TypeScript | piotrwitek | 12558 |
 | 142 |  [n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. | n8n-io | 25857 |
 | 143 |  [core](https://github.com/vuejs/core) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | vuejs | 32976 |
 | 144 |  [timequeue.js](https://github.com/fent/timequeue.js) | A queue with custom concurrency and time limit. | fent | 190 |
 | 145 |  [idb](https://github.com/jakearchibald/idb) | IndexedDB, but with promises | jakearchibald | 4848 |
-| 146 |  [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript &amp; JavaScript (ES6, ES7, ES8) 🚀 | nestjs | 51247 |
+| 146 |  [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | nestjs | 51247 |
 | 147 |  [fiddle](https://github.com/electron/fiddle) | :electron: 🚀 The easiest way to get started with Electron | electron | 6783 |
 | 148 |  [actions-toolkit](https://github.com/JasonEtco/actions-toolkit) | 🛠 A toolkit for building GitHub Actions in Node.js | JasonEtco | 886 |
 | 149 |  [comlink](https://github.com/GoogleChromeLabs/comlink) | Comlink makes WebWorkers enjoyable. | GoogleChromeLabs | 9043 |
@@ -1231,11 +1231,11 @@
 | 166 |  [luma.gl](https://github.com/visgl/luma.gl) | High-performance Toolkit for WebGL-based Data Visualization | visgl | 2055 |
 | 167 |  [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) | TypeScript standard for rock solid serverless functions. | transitive-bullshit | 631 |
 | 168 |  [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) | TypeScript/ES7 Decorators to create Vuex modules declaratively | championswimmer | 1788 |
-| 169 |  [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn&#39;t suck. | notable | 20362 |
-| 170 |  [ky](https://github.com/sindresorhus/ky) | 🌳 Tiny &amp; elegant JavaScript HTTP client based on the browser Fetch API | sindresorhus | 8062 |
+| 169 |  [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn't suck. | notable | 20362 |
+| 170 |  [ky](https://github.com/sindresorhus/ky) | 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API | sindresorhus | 8062 |
 | 171 |  [docz](https://github.com/doczjs/docz) | ✍ It has never been so easy to document your things! | doczjs | 22908 |
 | 172 |  [jest](https://github.com/facebook/jest) | Delightful JavaScript Testing. | facebook | 40428 |
-| 173 |  [feed-the-star](https://github.com/geekdada/feed-the-star) | Feed you with someone&#39;s Github star | geekdada | 6 |
+| 173 |  [feed-the-star](https://github.com/geekdada/feed-the-star) | Feed you with someone's Github star | geekdada | 6 |
 | 174 |  [safeify](https://github.com/Houfeng/safeify) | 📦 Safe sandbox that can be used to execute untrusted code. | Houfeng | 442 |
 | 175 |  [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. | microsoft | 84839 |
 | 176 |  [perfume.js](https://github.com/Zizzamia/perfume.js) | Web performance library for measuring all performance vitals metrics | Zizzamia | 2694 |
@@ -1243,13 +1243,13 @@
 | 178 |  [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) | Find and load configuration from a package.json property, rc file, or CommonJS module | davidtheclark | 3274 |
 | 179 |  [TypeScript-Babel-Starter](https://github.com/microsoft/TypeScript-Babel-Starter) | A sample setup using Babel CLI to build TypeScript code, and using TypeScript for type-checking. | microsoft | 1997 |
 | 180 |  [ow](https://github.com/sindresorhus/ow) | Function argument validation for humans | sindresorhus | 3622 |
-| 181 |  [botpress](https://github.com/botpress/botpress) | 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect &amp; deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc). | botpress | 9892 |
+| 181 |  [botpress](https://github.com/botpress/botpress) | 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc). | botpress | 9892 |
 | 182 |  [vuex-class](https://github.com/ktsn/vuex-class) | Binding helpers for Vuex and vue-class-component | ktsn | 1737 |
 | 183 |  [oclif](https://github.com/oclif/oclif) | Node.js Open CLI Framework. Built by Salesforce. | oclif | 7753 |
 | 184 |  [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) | Vue.js and Property Decorator | kaorun343 | 5428 |
-| 185 |  [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) | :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don&#39;t need this anymore!) | lgarron | 868 |
+| 185 |  [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) | :clipboard: Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!) | lgarron | 868 |
 | 186 |  [TypeScript](https://github.com/zhongsp/TypeScript) | TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org | zhongsp | 6152 |
-| 187 |  [modern-normalize](https://github.com/sindresorhus/modern-normalize) | 🐒 Normalize browsers&#39; default style | sindresorhus | 4569 |
+| 187 |  [modern-normalize](https://github.com/sindresorhus/modern-normalize) | 🐒 Normalize browsers' default style | sindresorhus | 4569 |
 | 188 |  [refined-github](https://github.com/refined-github/refined-github) | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | refined-github | 19020 |
 | 189 |  [Kap](https://github.com/wulkano/Kap) | An open-source screen recorder built with web technology | wulkano | 15687 |
 | 190 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 137541 |
@@ -1264,7 +1264,7 @@
 | 199 |  [Caporal.js](https://github.com/mattallty/Caporal.js) | A full-featured framework for building command line applications (cli) with node.js | mattallty | 3336 |
 | 200 |  [console-importer](https://github.com/pd4d10/console-importer) | Easily import JS and CSS resources from Chrome console. | pd4d10 | 608 |
 | 201 |  [html-looks-like](https://github.com/staltz/html-looks-like) | Assert that an HTML string looks approximately the same as another HTML | staltz | 178 |
-| 202 |  [sentry-javascript](https://github.com/getsentry/sentry-javascript) | Official Sentry SDKs for JavaScript. We&#39;re hiring https://boards.greenhouse.io/sentry | getsentry | 6594 |
+| 202 |  [sentry-javascript](https://github.com/getsentry/sentry-javascript) | Official Sentry SDKs for JavaScript. We're hiring https://boards.greenhouse.io/sentry | getsentry | 6594 |
 | 203 |  [micro](https://github.com/vercel/micro) | Asynchronous HTTP microservices | vercel | 10211 |
 | 204 |  [vercel](https://github.com/vercel/vercel) | Develop. Preview. Ship. | vercel | 9361 |
 | 205 |  [postcss](https://github.com/postcss/postcss) | Transforming styles with JS plugins | postcss | 26756 |
